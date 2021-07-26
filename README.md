@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C/C++ 🤣
 - 👯 I’m looking to collaborate with other devs
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to produce EDM (Electronic Dance Music) and play piano / drums
+- ⚡ Fun fact: I love to produce EDM (Electronic Dance Music) and play piano / drums also i am only 13 years old
 
 <br />
 
