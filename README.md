@@ -8,10 +8,13 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to produce EDM (Electronic Dance Music) and play piano / drums
 
+<br />
+
 ## Connect with me:
 
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 
+<br />
 <br />
 
 ## Languages and Tools:
@@ -43,11 +46,15 @@
 
 ![Unstoppable9160's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unstoppable9160&show_icons=true)
 
+<br />
+
 ## Pinned Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unstoppable9160&repo=Unstoppable9160)](https://github.com/Unstoppable9160/Unstoppable9160)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unstoppable9160&repo=IPFinder)](https://github.com/Unstoppable9160/IPFinder)
+
+<br />
 
 ## Top Languages
 
