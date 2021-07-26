@@ -41,4 +41,14 @@
 
 ## Github Stats
 
-[![Unstoppable9160's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unstoppable9160&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Unstoppable9160's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unstoppable9160&show_icons=true)
+
+## Pinned Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unstoppable9160&repo=Unstoppable9160)](https://github.com/Unstoppable9160/Unstoppable9160)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unstoppable9160&repo=IPFinder)](https://github.com/Unstoppable9160/IPFinder)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unstoppable9160)
