@@ -41,4 +41,4 @@
 
 ## Github Stats
 
-[![Unstoppable9160's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unstoppable9160&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Unstoppable9160's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unstoppable9160&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
