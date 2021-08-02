@@ -13,6 +13,7 @@
 ## Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://unstoppable9160.github.io/)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/discord/discord.png" />](https://discord.com/users/765808213890695178)
 
 <br />
 <br />
