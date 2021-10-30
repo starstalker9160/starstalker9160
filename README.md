@@ -3,10 +3,10 @@
 ## I'm Developer and Student!!
 
 - 🔭 I just launched my first app!
-- 🌱 I’m currently learning C/C++ 🤣
+- 🌱 I’m currently learning Java 🤣
 - 👯 I’m looking to collaborate with other devs
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to produce EDM (Electronic Dance Music) and play piano / drums also i am only 13 years old
+- 🥅 2022 Goals: Make an RPG in python
+- ⚡ Fun fact: I love to produce EDM (Electronic Dance Music) and play piano / drums also I am only 13 years old
 
 <br />
 
