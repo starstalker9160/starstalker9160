@@ -1,6 +1,6 @@
 # Hi there, I'm Unstoppable 👋
 
-## I'm Developer and Student!!
+## Iam a Developer and Student!!
 
 - 🔭 I just launched my first app!
 - 🌱 I’m currently learning Java 🤣
