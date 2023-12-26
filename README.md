@@ -2,11 +2,8 @@
 
 ## I am a Developer and Student!!
 
-- 🔭 I just launched my first app!
-- 🌱 I’m currently learning Java 🤣
-- 👯 I’m looking to collaborate with other devs
-- 🥅 2022 Goals: Make an RPG in python
-- ⚡ Fun fact: I love to produce EDM (Electronic Dance Music) and play piano / drums also I am only 13 years old
+- 🌱 I’m currently making a game in Unity
+- 🥅 2024 goal : learn in depth about the unity's rendering
 
 <br />
 
