@@ -1,6 +1,7 @@
 # hewwo
 
 im not a nerd 👎👎
+still in highschool with an unfortunate amount of free time on my hands
 
 ## Connect with me
 
