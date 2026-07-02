@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> I no longer use Github.  
+> I self-host git on my prod server for all my development needs, this profile is purely for archival purposes
+
+
 # hello 👋
 _**positively**_ a comp. sci nerd 👍👍<br>
 still in highschool (17y/o) with an unfortunate amount of free time on my hands
