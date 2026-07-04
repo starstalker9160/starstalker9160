@@ -8,7 +8,7 @@ _**positively**_ a comp. sci nerd 👍👍<br>
 still in highschool (17y/o) with an unfortunate amount of free time on my hands
 
 ## Connect with me
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://starstalker.xyz/)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://starstalker.dev/)
 [<img align="left" alt="" width="22px" src="https://skillicons.dev/icons?i=discord"/>](https://discord.com/users/765808213890695178)
 
 <br>
